@@ -1,1 +1,1 @@
-# python-ex
+# Repositório para praticar atividades e exercícios em Python
